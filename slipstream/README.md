@@ -6,7 +6,7 @@ permalink: /slipstream/
 
 [<-- Return Home](../README.md)
 
-# Slipstream v1.0.0
+# Slipstream v1.0.1
 
 Various helpful chat commands for providing information to viewers about [Slipstream: Rogue Space](http://playslipstream.com/).
 
@@ -28,6 +28,12 @@ In addition to the commands, there are two other categories added:
 5. Click "Import" to import the toy into your Streamer.bot instance
 6. (Optional) Set the timer in the timer trigger for the "Timer Message" action
 7. (Optional) Enable the action "Toggle Slipstream Actions based on category" and set the enable and disable action IDs
+
+## Changelog
+
+### v1.0.1
+
+- Corrected the Defense and Shield stat descriptions, which were both swapped and wrong.
 
 ## Commands
 
@@ -92,13 +98,13 @@ The Heatlh stat determines how much damage your crew member can take before they
 ### !slipstream help stats shields (!ss stats shields)
 
 ```
-The Shield stat determines how effective your crew member is at operating the Shield station. Bigger numer => faster shields.
+The Shield stat determines how much Shield you can hold, allowing you to take more damage before you need to regain your Shield at a Shield station.
 ```
 
 ### !slipstream help stats defense (!ss defense)
 
 ```
-The Defense stat reduces incoming damage to your crew member.
+The Defense stat determines how effective your crew member is at operating the Shield station. Bigger numer => faster shields.
 ```
 
 ### !slipstream help stats gunnery (!ss gunnery)
