@@ -1,3 +1,8 @@
+---
+title: "Raid Shoutout - Streamer.bot Toybox"
+description: "Keeps track of the latest streamer to raid your stream, and lets you shout them out with a command!"
+---
+
 [<-- Return Home](../README.md)
 
 # Raid Shoutout v1.0.0
