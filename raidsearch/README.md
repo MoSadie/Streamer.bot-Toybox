@@ -1,6 +1,7 @@
 ---
 title: "RaidSearch - Streamer.bot Toybox"
 description: "A tool to help you find a raid target for your channel. Or let the chat choose!"
+permalink: /raidsearch/
 ---
 
 [<-- Return Home](../README.md)

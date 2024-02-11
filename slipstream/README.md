@@ -1,6 +1,7 @@
 ---
 title: "Slipstream - Streamer.bot Toybox"
 description: "Various helpful chat commands for providing information to viewers about Slipstream: Rogue Space."
+permalink: /slipstream/
 ---
 
 [<-- Return Home](../README.md)
