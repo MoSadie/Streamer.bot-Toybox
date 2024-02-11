@@ -1,3 +1,5 @@
+[<-- Return Home](../README.md)
+
 # RaidSearch v1.0.0
 
 A tool to help you find a raid target for your channel. Or let the chat choose! Features include:
@@ -42,3 +44,5 @@ List the current raid list.
 ### !raid \<raidlist id or username\>
 
 Raid the specified streamer from the raid list. Supports raid list IDs or usernames.
+
+[<-- Return Home](../README.md)

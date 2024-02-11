@@ -1,3 +1,5 @@
+[<-- Return Home](../README.md)
+
 # Slipstream v1.0.0
 
 Various helpful chat commands for providing information to viewers about [Slipstream: Rogue Space](http://playslipstream.com/).
@@ -127,3 +129,4 @@ As you do things around the ship, you'll generate gems! You can select the gems 
 There are three tiers of gems: Purple, Red, and Gold! It is almost always worth dropping a lower-tier gem to grab a higher one. (Or attempt to juggle!)
 ```
 
+[<-- Return Home](../README.md)

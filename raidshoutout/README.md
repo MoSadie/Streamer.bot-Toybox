@@ -1,3 +1,5 @@
+[<-- Return Home](../README.md)
+
 # Raid Shoutout v1.0.0
 
 Keeps track of the latest streamer to raid your stream, and lets you shout them out with a command!
@@ -15,3 +17,5 @@ Keeps track of the latest streamer to raid your stream, and lets you shout them 
 ## !raidshoutout (!rso)
 
 Uses Twitch's Shoutout feature to shoutout the last streamer to raid your channel. Also sends a nice message to the chat.
+
+[<-- Return Home](../README.md)
