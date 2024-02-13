@@ -6,7 +6,7 @@ permalink: /slipstream/
 
 [<-- Return Home](../README.md)
 
-# Slipstream v1.0.1
+# Slipstream v1.1.0
 
 Various helpful chat commands for providing information to viewers about [Slipstream: Rogue Space](http://playslipstream.com/).
 
@@ -30,6 +30,10 @@ In addition to the commands, there are two other categories added:
 7. (Optional) Enable the action "Toggle Slipstream Actions based on category" and set the enable and disable action IDs
 
 ## Changelog
+
+### v1.1.0
+
+- Added commands for crew members and slugs.
 
 ### v1.0.1
 
@@ -138,7 +142,85 @@ As you do things around the ship, you'll generate gems! You can select the gems 
 ```
 
 ```
-There are three tiers of gems: Purple, Red, and Gold! It is almost always worth dropping a lower-tier gem to grab a higher one. (Or attempt to juggle!)
+There are three tiers of gems: Purple (1), Red (2), and Gold (5)! It is almost always worth dropping a lower-tier gem to grab a higher one. (Or attempt to juggle!)
+```
+
+### !slipstream help crew (!ss crew)
+
+```
+There are many different crew members to unlock! The first one is automatically unlocked, the rest are unlocked using Data Keys earned from gameplay. The current roster are the Bear, Cat, Croc, Hamster, Octopus, and Turtle. You can learn more about each one using !ss crew <crew name>
+```
+
+### !slipstream help crew bear (!ss bear)
+
+```
+The Bear is the sturdy brawler, well suited for fighting slugs with its boosted base health and damage vs slugs with the downside of moving slowly.
+```
+
+### !slipstream help crew cat (!ss cat)
+
+```
+The Cat is the clever hacker, master of the Weapon station. They deal 2x damage to enemy ships. All should yield their weapon stations to the Cats.
+```
+
+### !slipstream help crew croc (!ss croc)
+
+```
+The Croc is the speedy brawler, well suited for being the first to fight the slugs with its big damage vs slugs and high speed with the downside of having a reduced base health.
+```
+
+### !slipstream help crew hamster (!ss hamster)
+
+```
+The Hamster is the speedy mechanic with a 1.5x repair speed and the fastest movement speed. Unfortunately, the Hamster has a reduced base health.
+```
+
+### !slipstream help crew octopus (!ss octopus)
+
+```
+The Octopus is the master mechanic, with a 3x repair speed. While not as fast as the Hamster, they are the undisputed master of repair speed.
+```
+
+### !slipstream help crew turtle (!ss turtle)
+
+```
+The Turtle is the shield expert, the rulers of the Shield stations. With their 2.5x Shield speed multiplier and a 50% Shield capacity boost as well as a 1.2x Repair speed boost, the only thing slowing them down is themselves. All should yield their Shield stations to the Turtles, on sight.
+```
+
+### !slipstream help slugs
+
+```
+The Slugs are our worst enemies, humanity fell to them but with their last act they uplifted the various animals of earth to the stars. There are five types of slugs: Grunt, Blitz, Tank, Bruiser, and Royal. You can learn more about each one by using the command !ss slugs <slug name>
+```
+
+### !slipstream help slugs grunt (!ss grunt)
+
+```
+The green Grunt is a footsolider without any feet. They deal minimal damage to crew members, medium damage to stations, and have a small amount of health.
+```
+
+### !slipstream help slugs blitz (!ss blitz)
+
+```
+The lime Blitz is the shock trooper of the slugs. They deal large amounts of damage to crew members, but minimal damage to stations and have a tiny amount of health.
+```
+
+### !slipstream help slugs tank (!ss tank)
+
+```
+The orange Tank has a thick hide, sluggish in every sense. They deal mininal damage to crew members, large damage to stations, and have a extreme amount of health.
+```
+
+### !slipstream help slugs bruiser (!ss bruiser)
+
+```
+The red Bruiser is clawed and dangerous, approach with caution. They deal large amounts of damage to crew members and stations, and have a medium-large amount of health.
+```
+
+### !slipstream help slugs royal (!ss royal)
+
+```
+The purple Royal are elite, vicious, and downright mean. Bring help. They deal extreme amounts of damage to crew members and stations, and have a extreme amount of health.
 ```
 
 [<-- Return Home](../README.md)
