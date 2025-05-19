@@ -31,6 +31,10 @@ In addition to the commands, there are two other categories added:
 
 ## Changelog
 
+### v1.2.0
+
+- Added command for the Koala crew member.
+
 ### v1.1.0
 
 - Added commands for crew members and slugs.
@@ -185,6 +189,12 @@ The Octopus is the master mechanic, with a 3x repair speed. While not as fast as
 
 ```
 The Turtle is the shield expert, the rulers of the Shield stations. With their 2.5x Shield speed multiplier and a 50% Shield capacity boost as well as a 1.2x Repair speed boost, the only thing slowing them down is themselves. All should yield their Shield stations to the Turtles, on sight.
+```
+
+### !slipstream help crew koala (!ss koala)
+
+```
+The Koala is the mobile medic, able to charge up medical orbs at Medical stations to distribute at any time. They can even revive a knocked out player with them! I hear they love collecting green gems...
 ```
 
 ### !slipstream help slugs

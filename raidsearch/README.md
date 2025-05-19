@@ -15,8 +15,6 @@ A tool to help you find a raid target for your channel. Or let the chat choose! 
 - Manual addition of raid targets
 - Create a poll to let chat choose the raid target
 
-**Note: I don't have affiliate, so I cannot create polls, so those features are untested. They may work, but please let me know if they don't!** [(insert subtle plug here)](https://twitch.tv/mosadie)
-
 1. Copy the import string from [raidsearch-toy.txt](./raidsearch-toy.txt)
 2. Go to your Streamer.bot instance
 3. Click the "Import" button in the top left
